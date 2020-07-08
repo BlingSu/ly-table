@@ -1,7 +1,7 @@
 {
-  "name": "ly-table",
-  "version": "1.0.1",
-  "description": "About el-table",
+  "name": "@angelasu/ly-table",
+  "version": "1.0.0",
+  "description": "> 封装一个基于elementUI的table 🍵",
   "main": "dist/ly-table.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
